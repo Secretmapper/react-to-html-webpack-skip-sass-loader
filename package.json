@@ -1,0 +1,19 @@
+{
+  "name": "loader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benweizhu/loader.git"
+  },
+  "author": "Benwei Zhu <benweizhu@gmail.com> (http://benweizhu.github.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benweizhu/loader/issues"
+  },
+  "homepage": "https://github.com/benweizhu/loader#readme"
+}
