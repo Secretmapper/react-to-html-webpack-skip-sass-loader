@@ -1,5 +1,5 @@
 {
-  "name": "loader",
+  "name": "react-to-html-webpack-skip-sass-loader",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/benweizhu/loader.git"
+    "url": "git+https://github.com/benweizhu/react-to-html-webpack-skip-sass-loader.git"
   },
   "author": "Benwei Zhu <benweizhu@gmail.com> (http://benweizhu.github.com)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/benweizhu/loader/issues"
+    "url": "https://github.com/benweizhu/react-to-html-webpack-skip-sass-loader/issues"
   },
-  "homepage": "https://github.com/benweizhu/loader#readme"
+  "homepage": "https://github.com/benweizhu/react-to-html-webpack-skip-sass-loader#readme"
 }
